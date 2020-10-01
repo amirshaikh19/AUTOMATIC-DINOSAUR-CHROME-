@@ -1,0 +1,2 @@
+# AUTOMATIC-DINOSAUR-CHROME-
+chrome://dino/
